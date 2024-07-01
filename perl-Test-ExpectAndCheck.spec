@@ -7,7 +7,7 @@
 #
 Name     : perl-Test-ExpectAndCheck
 Version  : 0.06
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Test-ExpectAndCheck-0.06.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Test-ExpectAndCheck-0.06.tar.gz
 Summary  : 'C<expect/check>-style unit testing with object methods'
